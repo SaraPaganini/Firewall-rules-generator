@@ -1,0 +1,11 @@
+# Escludi il file dei dati (SQLite)
+*.db
+
+# Escludi le cartelle dell'ambiente virtuale
+venv/
+.venv/
+env/
+
+# Escludi i file temporanei di Python
+__pycache__/
+*.py[cod]
